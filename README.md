@@ -12,7 +12,7 @@ For this lesson you'll need to have _Python 2.7_ installed. If you're on Mac or 
 
 ## Part 1 - The Turing Machine
 
-<img style="float:right; margin-left:20px; width:200px;" src="http://upload.wikimedia.org/wikipedia/en/c/c8/Alan_Turing_photo.jpg" />
+![Alan Turing](http://upload.wikimedia.org/wikipedia/en/c/c8/Alan_Turing_photo.jpg")
 
 Time for a brief history lesson. [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing) was a highly influential British mathemetician. He is famous for breaking many of the German encryption codes during World War II. He was a crazy hacker over **70** years ago!
 
@@ -26,9 +26,7 @@ In 1936, Turing came up with a _hypothetical_ device that could run any **algori
 	2. Move the head one cell left, one cell right, or stay in place, _and then_
 	3. Assume the same or a new state
 
-Let's see an example of a Turing machine in action (Jump to 3:19 in the video):
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/E3keLeMwfHY?t=3m19s" frameborder="0" allowfullscreen></iframe>
+Let's see an example of a Turing machine in action ([Jump to 3:19 in the video](http://www.youtube.com/embed/E3keLeMwfHY?t=3m19s))
 
 ## So... where can I get a Turing Machine?
 
